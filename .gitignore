@@ -12,3 +12,19 @@ web-report/
 
 # macOS
 .DS_Store
+
+# Node
+node_modules
+*.log
+.nvm
+/bots/node_modules/
+package-lock.json
+
+# react-native-codegen
+/packages/react-native-codegen/lib
+/ReactCommon/fabric/components/rncore/
+/schema-native-modules.json
+/schema-rncore.json
+# Visual studio
+.vscode
+.vs
