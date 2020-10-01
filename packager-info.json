@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 4632,
+  "expoServerNgrokUrl": "https://mk-qsa.josephtannous.goods.exp.direct",
+  "packagerNgrokUrl": "https://packager.mk-qsa.josephtannous.goods.exp.direct",
+  "ngrokPid": 5468,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
